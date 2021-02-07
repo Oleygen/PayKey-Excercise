@@ -6,18 +6,21 @@ Login into https://www.themoviedb.org/ api, an obtain an api key using:
 
 The Movie Database API
 
-Notes
+Notes:
+
     •    The exercise should take about 3 hours
     •    Don’t spend too much time on UI, make the app functional
     •    Code should be neat and self-explanatory
     •    You don't have to complete the entire app, submit what  you can do in ~3 hours
 
-For Android
+For Android:
+
     •    Write in Java and Kotlin
     •    Third-party libraries are allowed (Gson, Image loading (Picasso, Glide), Networking, etc...)
     •    Rx Libraries are not allowed (RxJava, RxAndroid, etc..)
 
-For iOS
+For iOS:
+
     •    You can write in Swift or Objective C.
     •    Third-party libraries are not allowed (except networking)
 
